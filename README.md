@@ -1,24 +1,22 @@
 <!Doctype html>
 <html>
  <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   body {
   background-color:powder-blue;
 }
-
-  h1{
+h1{
        font-style: italic;
        color: purple;
        align-content: center;
      }
-     #test-image{
+    #test-image{
   width:35%;
   height:auto;
   border:0.5px,soild-black;
   border-radius: 10px;
 }
-  
   #frenchfries{
   background-color:green;
   margin-right: 10px;
@@ -26,7 +24,7 @@
   flex-flow: row,nonwrap;
   justify-content: center;
 }
-p {
+ p {
   font-style:oblique ;
 }
 
@@ -42,19 +40,16 @@ p {
   border:0.5px,soild-black;
   border-radius: 10px;
 }
-
 </style>
 </head>
 <body>
 <h>Food Maina</h>
-
-  <p> <span style="color:red">Its a complete website for recipe either it is chinese,italian,indian,pakistani etc .This website provides the complete recipes of dishes .The recipes are easy to made and very simple ingredients are used that are easily avaliable in our market.This website is a complete platform for all types of dishes.
+<p> <span style="color:red">Its a complete website for recipe either it is chinese,italian,indian,pakistani etc .This website provides the complete recipes of dishes .The recipes are easy to made and very simple ingredients are used that are easily avaliable in our market.This website is a complete platform for all types of dishes.
 </span></p>
 <section id="frenchfries">
  <h1> frenchfries</h1>
 <li>Recipe of Dish
 <ol>
-
 <p>  Peel of the potatoes and cut in the equal size of finger shape.Add red chilli powder ,Salt and Cornflour .Put oil in the Sauce pan then Fry the potatoes in the Saucepan.Fry the potatoes until the colour of potatoes turn golden.Dry the potatoes with tissuse paper.Serve the potatoes with ketchup.
 </p></ol>
 </section>
@@ -76,21 +71,18 @@ p {
   <li>garlic </li>
   <li>paste</li>
   <li>tomatoes</li>
-  <li>  chicken</li>
-
-  </ul>
+  <li>chicken</li>
+</ul>
 </div>
 <section id="Omelette">
   <h4><strong>Omelette</strong></h4>
   <li>Recipe of dish</li>
-
 <p>Cut the onion,tomatoes haira dhaina and green chili.Now beat the one egg add chili powder,salt and black pepper.Now mix the vegetables in the beaten egg.Put some drop of oil in sauce pan add the egg mixture and let it cook.Cook the egg until it turn golden.Omelette is ready to eat.</p>
-
-    <ul>
-      <li> vegetables</li>
-      <li>egg</li>
-      <li>blackpepper</li>
-      <li>salt</li>
+<ul>
+  <li> vegetables</li>
+   <li>egg</li>
+   <li>blackpepper</li>
+    <li>salt</li>
 </ul>
 </section>
 <section id="coffee">
@@ -109,8 +101,7 @@ p {
 </section>
 
   <section id="test-image>
-    <img id="test-image">
-
+   <img id="test-image">
 <img src="https://i.imgur.com/BbOiJSs.jpg">
 <img src="https://i.imgur.com/sgNJV4k.jpg">
 <img src="https://i.imgur.com/nBIp4GX.jpg">
